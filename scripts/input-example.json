@@ -1,0 +1,20 @@
+{
+  "id": "Sxxx",
+  "version_id": "publisher-YYYYMMDD",
+  "pdf_path": "C:/path/paper.pdf",
+  "pdf_sha256": "SHA256",
+  "page_count": 1,
+  "metadata": {
+    "title": "Original title", "title_zh": "中文题名",
+    "authors": ["Full author name"], "year": 2026,
+    "source": "Journal volume pages", "publication_date": "YYYY-MM-DD",
+    "doi": "", "type": "journal_article",
+    "abstract_original": "原文摘要", "author_keywords": ["Original keyword"],
+    "abstract_source": {"pages": [1], "version": "publisher-YYYYMMDD"},
+    "keyword_source": {"pages": [1], "version": "publisher-YYYYMMDD"}
+  },
+  "classification": {"code": "T00", "path": "待确认", "reason": "正文依据", "evidence": [1], "auxiliary_signals": [], "auxiliary_tasks": [], "tags": []},
+  "review": {"full_text_read": false, "key_figures_checked": false, "classification_reviewed": false, "references_checked": false, "reference_count": 1, "evidence": "具体检查依据"},
+  "card_sections": ["2快速理解", "3数据与研究设计", "4方法", "5主要结果", "6贡献局限与分析", "7分类", "8阅读提示"],
+  "references": [{"number": 1, "order": 1, "raw": "原始题录", "pages": [1], "type": "journal_article", "entity_id": null, "identity_evidence": null}]
+}
